@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "happy-shoppy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Happy Shoppy is built for companies to compete with other E-commerce businesses. It lets the users manage their categories, products and tags tables in the database. It connects to the database through Sequelize and seed the database. When seeded, user can start server to GET, POST, PUT and DELETE routes by Insomnia to display relavent data. This application will sure help out managing your business.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,9 +20,9 @@
     "nodemon": "^2.0.3"
   },
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^5.21.7"
+    "dotenv": "^8.6.0",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0"
   }
 }

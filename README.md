@@ -1,4 +1,4 @@
-# Shopping Frenzy
+# Happy Shoppy
 Happy Shoppy is built for companies to compete with other E-commerce businesses. It lets the users manage their categories, products and tags tables in the database. It connects to the database through Sequelize and seed the database. When seeded, user can start server to GET, POST, PUT and DELETE routes by Insomnia to display relavent data. This application will sure help out managing your business.
 
 #### This page is licensed under (click badge for license page): 
