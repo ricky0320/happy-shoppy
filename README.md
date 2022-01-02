@@ -12,6 +12,9 @@ Happy Shoppy is built for companies to compete with other E-commerce businesses.
 * Dotenv
 * Insomnia
 
+## Link to Video
+https://watch.screencastify.com/v/sVXHOGmHnBgtsQZXRFY0
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -20,24 +23,24 @@ Happy Shoppy is built for companies to compete with other E-commerce businesses.
 * [Contact](#contact)
 
 ## Installation
-`$npm install express`
-`$npm install sequelize`
-`$npm install mysql2`
-`$npm run seeds`
+`$npm install express`<br/>
+`$npm install sequelize`<br/>
+`$npm install mysql2`<br/>
+`$npm run seeds`<br/>
 `$npm start`
 
 ## Usage
-Walkthrough Video Link:
+https://watch.screencastify.com/v/sVXHOGmHnBgtsQZXRFY0
 
 
 ## Credits
-Created by:
+Created by:<br/>
 Ricky Leung/(Ching Leung)
 
 ## License
 This license is covered under MIT (https://opensource.org/licenses/MIT)
 
 ## Contact:
-Linkedin: https://www.linkedin.com/in/ricky-leung-826a7713a/
-GitHub: http://github.com/ricky0320
+Linkedin: https://www.linkedin.com/in/ricky-leung-826a7713a/<br/>
+GitHub: http://github.com/ricky0320<br/>
 Email: ricxx0320@gmail.com
